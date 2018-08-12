@@ -1,6 +1,6 @@
 {
   "name": "postcss-auto-set-imageset",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "PostCSS plugin Auto set css property of image-set to compat 2x or 3x",
   "keywords": [
     "postcss",
@@ -11,11 +11,11 @@
   ],
   "author": "joe <smallcatcat.joe@gmail.com>",
   "license": "MIT",
-  "repository": "smallcatcat.joe@gmail.com/postcss-auto-set-imageset",
+  "repository": "https://github.com/smallcatcat-joe/postcss-auto-set-imageset",
   "bugs": {
-    "url": "https://github.com/smallcatcat.joe@gmail.com/postcss-auto-set-imageset/issues"
+    "url": "https://github.com/smallcatcat-joe/postcss-auto-set-imageset/issues"
   },
-  "homepage": "https://github.com/smallcatcat.joe@gmail.com/postcss-auto-set-imageset",
+  "homepage": "https://github.com/smallcatcat-joe",
   "dependencies": {
     "postcss": "^6.0.16"
   },
