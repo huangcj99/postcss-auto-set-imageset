@@ -13,6 +13,7 @@ require('postcss-auto-set-imageset')(),
 require('autoprefixer')()
 ```
 
+### input:
 ```css
 .test-file {
     background-image: url('../imgs/photo@2x.png'); /* 3x */
@@ -23,6 +24,7 @@ require('autoprefixer')()
 }
 ```
 
+### output:
 ```css
 .test-file {
     /* compat the webview which image-set property is not support. Setting the @2x photo default */

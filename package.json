@@ -1,6 +1,6 @@
 {
   "name": "postcss-auto-set-imageset",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "PostCSS plugin Auto set css property of image-set to compat 2x or 3x",
   "keywords": [
     "postcss",
