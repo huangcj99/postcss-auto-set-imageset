@@ -1,4 +1,4 @@
-# PostCSS Auto Set Imageset [![Build Status][https://img.shields.io/npm/v/postcss-auto-set-imageset.svg]]
+# PostCSS Auto Set Imageset [![Version](https://img.shields.io/npm/v/postcss-auto-set-imageset.svg)](https://www.npmjs.com/package/postcss-auto-set-imageset)
 
 [PostCSS] plugin Auto set css property of image-set to compat 2x or 3x.
 
