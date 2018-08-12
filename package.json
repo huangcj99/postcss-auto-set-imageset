@@ -1,0 +1,39 @@
+{
+  "name": "postcss-auto-set-imageset",
+  "version": "0.0.0",
+  "description": "PostCSS plugin Auto set css property of image-set to compat 2x or 3x",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "retina",
+    "image-set"
+  ],
+  "author": "joe <smallcatcat.joe@gmail.com>",
+  "license": "MIT",
+  "repository": "smallcatcat.joe@gmail.com/postcss-auto-set-imageset",
+  "bugs": {
+    "url": "https://github.com/smallcatcat.joe@gmail.com/postcss-auto-set-imageset/issues"
+  },
+  "homepage": "https://github.com/smallcatcat.joe@gmail.com/postcss-auto-set-imageset",
+  "dependencies": {
+    "postcss": "^6.0.16"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-postcss": "^2.0.2",
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest && eslint *.js"
+  },
+  "eslintConfig": {
+    "extends": "eslint-config-postcss/es5",
+    "env": {
+      "jest": true
+    }
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
